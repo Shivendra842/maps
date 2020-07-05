@@ -1,6 +1,9 @@
 <template>
   <div>
-    hello welcome to maps
+    Welcome 
+    <v-content>
+      <router-view/>
+    </v-content>
   </div>
 </template>
 
